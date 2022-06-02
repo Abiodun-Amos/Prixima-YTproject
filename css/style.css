@@ -18,7 +18,7 @@ a {
     font-weight: 500;
 }
 a:hover {
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
 }
 
 img {
@@ -42,7 +42,7 @@ section {
 
 .intro h6 {
     font-weight: 400;
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
 }
 
 .intro p {
@@ -53,7 +53,7 @@ section {
 
 /* NAVBAR */
 .top-nav {
-    background-color: #ff4d29;
+    background-color: rgb(158, 235, 71);
     padding-top: 5px;
     padding-bottom: 5px;
 }
@@ -84,7 +84,7 @@ section {
 
 .social-links a:hover {
     background-color: #ffffff;
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
 }
 
 .navbar {
@@ -93,7 +93,7 @@ section {
 
 .navbar .navbar-nav .nav-link:hover,
 .navbar .navbar-nav .nav-link.active{
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
 }
 
 .navbar-brand {
@@ -103,7 +103,7 @@ section {
 }
 
 .navbar-brand span {
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
 }
 
 /* BTN */
@@ -113,14 +113,14 @@ section {
 }
 
 .btn-brand {
-    background-color: #ff4d29;
+    background-color: rgb(158, 235, 71);
     color: #ffffff;
-    border-color: #ff4d29;
+    border-color: lemon;
 }
 
 .btn-brand.hover {
     color: #ffffff;
-    background-color: #e04122;
+    background-color: rgb(158, 235, 71);
 }
 
 /* SLIDER */
@@ -162,7 +162,7 @@ section {
 
 .owl-prev:hover,
 .owl-next:hover {
-    background-color: #ff4d29 !important;
+    background-color: rgb(158, 235, 71) !important;
 }
 
 /* INFO BOX */
@@ -178,7 +178,7 @@ section {
 
 /* MILESTONE */
 #milestone {
-    background: linear-gradient(rgba(255, 77, 41, 0.9), rgba(255, 77, 41, 0.9)), url(../img/bg_banner2.jpg);
+    background: linear-gradient(rgb(158, 235, 71), rgb(158, 235, 71)), url(../img/bg_banner2.jpg);
 }
 
 #milestone .display-4,
@@ -215,7 +215,7 @@ section {
 
 #project-slider .owl-next:hover,
 #project-slider .owl-prev:hover {
-    background-color: #ff4d29 !important;
+    background-color: rgb(158, 235, 71) !important;
 }
 
 .project {
@@ -254,7 +254,7 @@ section {
     content: '';
     height: 2px;
     width: 24px;
-    background-color: #ff4d29;
+    background-color: rgb(158, 235, 71);
     display: inline-block;
     vertical-align: middle;
     margin-right: 12px;
@@ -275,7 +275,7 @@ section {
     left: 0;
     width: 100%;
     height: 100%;
-    background-color: rgba(255, 77, 41, 0.89);
+    background-color: rgb(158, 235, 71);
     transition: all 0.4s ease;
     opacity: 0;
 }
@@ -330,7 +330,7 @@ section {
 }
 
 .review small {
-    color: #ff4d29;
+    color: rgb(158, 235, 71)9;
 }
 
 .review p {
@@ -338,7 +338,7 @@ section {
 }
 
 .owl-dot.active span {
-    background-color: #ff4d29 !important;
+    background-color: rgb(158, 235, 71) !important;
 }
 
 /* BLOG POST */
@@ -348,7 +348,7 @@ section {
 
 .blog-post .tag {
     padding: 4px 12px;
-    background-color: #ff4d29;
+    background-color: rgb(158, 235, 71);
     color: #fff;
     border-radius: 100px;
     top: 20px;
@@ -370,7 +370,7 @@ section {
 }
 
 .blog-post small {
-    color: #ff4d29;
+    color: rgb(158, 235, 71);
     text-decoration: underline;
     text-transform: uppercase;
 }
@@ -407,5 +407,5 @@ footer .social-links a {
 /* FORMS */
 .form-control:focus {
     box-shadow: none;
-    border-color: #ff4d29;
+    border-color: rgb(158, 235, 71);
 }
